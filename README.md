@@ -12,8 +12,7 @@
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
 
 [<img src = "https://cdn.icon-icons.com/icons2/840/PNG/512/Whatsapp_icon-icons.com_66931.png" width="48px"/>](https://wa.me/qr/H3FNOAZQMGK7D1)
-
-[LinkedIn]()
+[<img src = "https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png"/>](https://www.linkedin.com/mynetwork/)
 
 <!--
 **EltonBata/EltonBata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
