@@ -11,7 +11,7 @@
 
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
 
-[https://wa.me/qr/H3FNOAZQMGK7D1](https://wa.me/qr/H3FNOAZQMGK7D1)
+[![whatsapp](https://cdn.icon-icons.com/icons2/840/PNG/512/Whatsapp_icon-icons.com_66931.png)](https://wa.me/qr/H3FNOAZQMGK7D1)
 
 [LinkedIn]()
 
