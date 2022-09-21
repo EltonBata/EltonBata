@@ -1,4 +1,5 @@
-### Hi I'm Elton Bata 👋
+### **Hi I'm Elton Bata** 👋
+#### Web Developer Junior 💻❤
 
 - 🌱 I’m currently learning [Yii2 Framework](https://www.yiiframework.com/)
 
@@ -8,7 +9,9 @@
 
 - 📫 How to reach me: 
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
+
 [Whatsapp](https://wa.me/qr/H3FNOAZQMGK7D1)
+
 [LinkedIn]()
 
 <!--
