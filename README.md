@@ -8,9 +8,10 @@
 - 💬 Ask me about coding
 
 - 📫 How to reach me: 
+
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
 
-[Whatsapp](https://wa.me/qr/H3FNOAZQMGK7D1)
+[https://wa.me/qr/H3FNOAZQMGK7D1](https://wa.me/qr/H3FNOAZQMGK7D1)
 
 [LinkedIn]()
 
