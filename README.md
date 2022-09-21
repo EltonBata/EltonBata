@@ -17,12 +17,12 @@
 
 ## Languages && Tools
 
-<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width = "48px">
-<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width = "48px">
-<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width = "48px">
-<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width = "48px">
-<img src = "https://cdn-icons-png.flaticon.com/128/226/226777.png" width = "48px">
-<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width = "48px">
+[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width = "48px">]
+[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width = "48px">]
+[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width = "48px">]
+[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width = "48px">]
+[<img src = "https://cdn-icons-png.flaticon.com/128/226/226777.png" width = "48px">]
+[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width = "48px">]
 
 <!--
 **EltonBata/EltonBata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
