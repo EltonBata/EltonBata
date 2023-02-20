@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a ""
 
-- 💬 Ask me about coding
+- 💬 Ask me about PHP coding
 
 - 📫 How to reach me: 
 
