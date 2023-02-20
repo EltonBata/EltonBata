@@ -1,9 +1,9 @@
 ### **Hi I'm Elton Bata** 👋
 #### Web Developer Junior 💻❤
 
-- 🌱 I’m currently learning [Yii2 Framework](https://www.yiiframework.com/)
+- 🌱 I’m currently learning [Lavarel](https://laravel.com/)
 
-- 🔭 I’m currently working on a [YouTube clone using Yii2](https://www.youtube.com/watch?v=whuIf33v2Ug&t=2s)
+- 🔭 I’m currently working on a ""
 
 - 💬 Ask me about coding
 
