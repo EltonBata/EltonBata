@@ -1,11 +1,11 @@
 ### **Hi I'm Elton Bata** 👋
 #### Web Developer Junior 💻❤
 
-- 🌱 I’m currently learning [Lavarel](https://laravel.com/)
+- 🌱 I’m currently learning [SpringBoot](https://spring.io/)
 
-- 🔭 I’m currently working on a ""
+- 🔭 I’m currently working on a Microservice With SpringBoot
 
-- 💬 Ask me about PHP coding
+- 💬 Ask me about PHP, JAVA and others dev stufs
 
 - 📫 How to reach me: 
 
