@@ -1,9 +1,7 @@
 ### **Hi I'm Elton Bata** 👋
 #### Web Developer Junior 💻❤
 
-- 🌱 I’m currently learning [SpringBoot](https://spring.io/)
-
-- 🔭 I’m currently working on a Microservice With SpringBoot
+- 🔭 I’m currently working on PHP Laravel
 
 - 💬 Ask me about PHP, JAVA and others dev stufs
 
