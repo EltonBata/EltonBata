@@ -13,7 +13,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48px" alt="PostgreSQL">](https://www.postgresql.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48px" alt="Spring Boot">](https://spring.io/projects/spring-boot)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px" alt="Node.js">](https://nodejs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48px" alt="NestJS">](https://nestjs.com/)
+[<img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="48px" alt="NestJS">](https://nestjs.com/)
 
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
 
