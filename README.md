@@ -1,11 +1,19 @@
 ### **Hi I'm Elton Bata** 👋
-#### Web Developer Junior 💻❤
+#### Web Developer 💻❤
 
-- 🔭 I’m currently working on PHP Laravel
+- 🔭 I’m a web-dev in about 3 years now
+  
+- I work with this stacks:
 
-- 💬 Ask me about PHP, JAVA and others dev stufs
-
-- 📫 How to reach me: 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48px" alt="PHP">](https://www.php.net/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript">](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48px" alt="React.js">](https://react.dev/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48px" alt="Firebase">](https://firebase.google.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="MySQL">](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48px" alt="PostgreSQL">](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48px" alt="Spring Boot">](https://spring.io/projects/spring-boot)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px" alt="Node.js">](https://nodejs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48px" alt="NestJS">](https://nestjs.com/)
 
 [eltonbata14@gmail.com](eltonbata14@gmail.com)
 
@@ -13,26 +21,6 @@
 [<img src = "https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png"/>](https://www.linkedin.com/mynetwork/)
 [<img src = "https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="48px"/>](https://web.dio.me/track/spread-fullstack-developer)  
 
-## Languages && Tools
-
-[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width = "48px">](https://www.w3schools.com/html/)
-[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width = "48px">](https://www.w3schools.com/css/)
-[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width = "48px">](https://www.php.net/)
-[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width = "48px">](https://getbootstrap.com/)
-[<img src = "https://cdn-icons-png.flaticon.com/128/226/226777.png" width = "48px">](https://www.java.com/)
-[<img src = "https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width = "48px">](https://www.javascript.com/)
-
-<!--
-**EltonBata/EltonBata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
